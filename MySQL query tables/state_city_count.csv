@@ -1,0 +1,81 @@
+location_state,location_city,count
+Illinois,Aurora,4
+Illinois,Bloomington,2
+Illinois,"Carol Stream",8
+Illinois,Champaign,2
+Illinois,Chicago,57
+Illinois,Decatur,3
+Illinois,"East Saint Louis",2
+Illinois,Evanston,4
+Illinois,Joliet,2
+Illinois,Naperville,3
+Illinois,Palatine,2
+Illinois,Peoria,17
+Illinois,Rockford,4
+Illinois,Schaumburg,3
+Illinois,Springfield,25
+Indiana,Anderson,5
+Indiana,Bloomington,5
+Indiana,Crawfordsville,8
+Indiana,Evansville,14
+Indiana,"Fort Wayne",23
+Indiana,Gary,4
+Indiana,Indianapolis,37
+Indiana,Jeffersonville,1
+Indiana,Lafayette,3
+Indiana,Muncie,2
+Indiana,"South Bend",18
+Indiana,"Terre Haute",8
+Kentucky,Frankfort,1
+Kentucky,Lexington,33
+Kentucky,London,3
+Kentucky,Louisville,39
+Michigan,"Ann Arbor",4
+Michigan,"Battle Creek",3
+Michigan,Dearborn,2
+Michigan,Detroit,31
+Michigan,Farmington,4
+Michigan,Flint,8
+Michigan,"Grand Rapids",13
+Michigan,Kalamazoo,7
+Michigan,Lansing,13
+Michigan,Midland,4
+Michigan,Muskegon,1
+Michigan,Saginaw,6
+Michigan,Southfield,1
+Michigan,Troy,3
+Michigan,Warren,4
+Ohio,Akron,24
+Ohio,Canton,10
+Ohio,Cincinnati,58
+Ohio,Cleveland,3030
+Ohio,Columbus,33
+Ohio,Dayton,32
+Ohio,Hamilton,1
+Ohio,Lima,3
+Ohio,Mansfield,4
+Ohio,Springfield,2
+Ohio,Toledo,23
+Ohio,Warren,7
+Ohio,Youngstown,10
+Pennsylvania,Allentown,2
+Pennsylvania,Bethlehem,1
+Pennsylvania,Erie,13
+Pennsylvania,Harrisburg,19
+Pennsylvania,Johnstown,1
+Pennsylvania,Lancaster,9
+Pennsylvania,Levittown,2
+Pennsylvania,"Mc Keesport",4
+Pennsylvania,"New Castle",4
+Pennsylvania,Philadelphia,48
+Pennsylvania,Pittsburgh,55
+Pennsylvania,Reading,3
+Pennsylvania,Scranton,7
+Pennsylvania,"Valley Forge",5
+Pennsylvania,"Wilkes Barre",9
+Pennsylvania,York,3
+Wisconsin,Appleton,5
+Wisconsin,"Green Bay",5
+Wisconsin,Madison,26
+Wisconsin,Milwaukee,21
+Wisconsin,Racine,4
