@@ -1,5 +1,5 @@
 # HR-Analytics-MySQL-PowerBI
-Cleaned, Queried, and Visualized the HR dataset using MySQL and PowerBI<br>
+Cleaned, Queried, and Visualized the HR dataset using MySQL and PowerBI<br><br>
 The final dashboard looks as follows<br><br>
 ![image](https://github.com/Vanmeeg22/HR-Analytics-MySQL-PowerBI/assets/71753122/ffe4a202-b26e-41e4-815b-e5e0ffb50148)
 <br><br>
