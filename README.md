@@ -12,7 +12,7 @@ The final dashboard looks as follows<br><br>
 <br>
 <h2>Issues found in the data</h2>
 <ul>
-  <li>Inconcistent formatting - This was observed across all the date columns making it necessary to standardize the data for consistency</li>
+  <li>Inconsistent formatting - This was observed across all the date columns making it necessary to standardize the data for consistency</li>
 </ul>
 <h2>Questions</h2>
 <ol>
