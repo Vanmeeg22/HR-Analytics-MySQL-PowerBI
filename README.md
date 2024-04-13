@@ -5,16 +5,21 @@ The final dashboard looks as follows<br><br>
 <br><br>
 ![image](https://github.com/Vanmeeg22/HR-Analytics-MySQL-PowerBI/assets/71753122/107591c6-2f6d-4897-b7e1-56549a5feb8c)
 <br>
-<h2>Data Used</h2>
+<br>
+
+## Data Used
 <p>Data - HR Data with 22,215 records from the year 2000 to 2020</p>
 <p>Data Cleaning and Analysis - MySQL Workbench</p>
 <p>Data Visualization - Power BI</p>
 <br>
-<h2>Issues found in the data</h2>
+
+## Issues found in the data
 <ul>
   <li>Inconsistent formatting - This was observed across all the date columns making it necessary to standardize the data for consistency</li>
 </ul>
-<h2>Questions</h2>
+<br>
+
+## Questions
 <ol>
   <li>What is the gender breakdown of employees in the company?</li>
   <li>What is the race/ethnicity breakdown of employees in the company?</li>
@@ -29,7 +34,8 @@ The final dashboard looks as follows<br><br>
   <li>What is the tenure distribution for each department?</li>
 </ol>
 <br>
-<h2>Findings & Conclusions</h2>
+
+## Findings & Conclusions
 <ul>
   <li>Male employees dominate in gender diversity</li>
   <li>White employees dominate the most in diversity by race while Native Hawaiian or other Pacific Islander and American Indian dominate the least in diversity by race</li>
@@ -45,7 +51,8 @@ The final dashboard looks as follows<br><br>
   <li>The highest average tenure is 9 years in the Sales department while the lowest average tenure is 6 years in the Product Management department</li>
 </ul>
 <br>
-<h2>Limitations</h2>
+
+## Limitations
 <ul>
   <li>Some of the termdates were far in the future and were not included in the analysis. The only termdates used were those less than or equal to the current date.</li>
 </ul>
